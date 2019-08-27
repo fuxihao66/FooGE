@@ -1,0 +1,14 @@
+<Canvas Name="Startup UI">
+    <Button Name="Start Button">
+        <Text>Start</Text>
+    </Button>
+    <Button Name="Load Button">
+        <Text>Load</Text>
+    </Button>
+    <Button Name="Quit Button">
+        <Text>Quit</Text>
+    </Button>
+    <Button Name="Setting Button">
+        <Text>Setting</Text>
+    </Button>
+</Canvas>

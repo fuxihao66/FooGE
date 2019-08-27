@@ -1,0 +1,4 @@
+
+class CopperMine: public Cube{
+    
+};

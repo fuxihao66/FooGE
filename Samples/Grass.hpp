@@ -1,0 +1,3 @@
+class Grass: public Cube{
+
+};

@@ -1,0 +1,22 @@
+<keyframes>
+
+    <frame>
+        <time>1</time>
+        <scale>
+            <x>0.2</x>
+            <y>0.5</y>
+            <z>0.8</z>
+        </scale>
+        <rotate>50</rotate>
+        <translate>
+            <x>0.2</x>
+            <y>0.5</y>
+            <z>0.8</z>
+        </translate>
+    </frame>
+
+    <frame></frame>
+    <frame></frame>
+    <frame></frame>
+    <frame></frame>
+</keyframes>
